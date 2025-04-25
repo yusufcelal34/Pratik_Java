@@ -1,4 +1,4 @@
-package Java_Pratik;
+package pratik;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,3 +1,5 @@
+package pratik;
+
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package Java_Pratik;
+package pratik;
 
 public class mEmre_Odev21b {
     public static void main(String[] args) {

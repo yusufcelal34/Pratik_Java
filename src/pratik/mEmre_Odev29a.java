@@ -1,6 +1,4 @@
-package Java_Pratik;
-
-import java.util.Arrays;
+package pratik;
 
 public class mEmre_Odev29a {
     public static void main(String[] args) {

@@ -1,9 +1,4 @@
-package Java_Pratik;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+package pratik;
 
 public class mEmre_Odev26a {
     public static void main(String[] args) {
